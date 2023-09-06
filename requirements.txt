@@ -11,9 +11,12 @@ matplotlib
 seaborn
 scikit-learn
 requests
-os
 google-cloud-bigquery
 google-cloud-storage
 db-dtypes
 pyarrow
-
+tensorflow==2.13.0
+fastapi
+uvicorn
+typing_extensions
+python-multipart

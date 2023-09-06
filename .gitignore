@@ -160,3 +160,7 @@ cython_debug/
 #.idea/
 .DS_store
 .python-version
+
+
+encoded_images.npy
+.npy
